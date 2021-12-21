@@ -112,3 +112,4 @@ You can test your strings in an [online editor](http://format-message.github.io/
 
 Stock images used on the dashboard UI are courtesy of Pixabay.com and are subject to the Simplified Pixabay License. 
 Full license details can be found at https://pixabay.com/service/license/.
+"# truenas-angular-application" 
